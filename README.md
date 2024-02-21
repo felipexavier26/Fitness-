@@ -26,5 +26,5 @@ Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript
 <br>
 <br>
 
-![desktop](https://github.com/felipexavier26/Site-de-Fitness/assets/103685054/355fd8a0-a243-417f-857c-62e5ba6a1378)
+![desktop](https://github.com/felipexavier26/Site-de-Fitness/assets/103685054/355fd8a0-a243-417f-857c-62e5ba6a1378) 
 
